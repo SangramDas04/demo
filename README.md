@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repository
 <br>
-Author - Sangram Das
+Author - Sangram Das (coder)
